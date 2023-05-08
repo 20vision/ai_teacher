@@ -1,4 +1,4 @@
-# AI Teacher - https://www.20.vision?referrer=github
+# AI Teacher - https://www.20.vision/20vision_ai_teacher?referrer=github
 
 ## 1/8 | Introduction to AI Teacher
 
