@@ -1,4 +1,4 @@
-# AI Teacher - https://www.20.vision
+# AI Teacher - https://www.20.vision?referrer=github
 
 ## 1/8 | Introduction to AI Teacher
 
@@ -18,7 +18,7 @@ Use chat GPT to format its responses for use in your code. Provide instructions 
 
 ## 5/8 | API Keys and JavaScript Initial Setup for the AI Teacher
 
-Implement the AI Teacher class generation in JavaScript using OpenAI and 20Vision APIs. Include necessary configurations and your API keys. Use npm packages "axios" and "openai". Generate your 20Vision API Key from your profile and the OpenAI key at https://openai.com/blog/openai-api. Replace YOUR_20VISION_PAGENAME with your unique pagename.
+Implement the AI Teacher class generation in JavaScript using OpenAI and 20Vision APIs. Include necessary configurations and your API keys. Use npm packages "axios" and "openai". Generate your 20Vision API https://20.vision?referrer=github Key from your profile and the OpenAI key at https://openai.com/blog/openai-api. Replace YOUR_20VISION_PAGENAME with your unique pagename.
 
 ## 6/8 | Retrieving Popular Posts with 20Vision API
 
